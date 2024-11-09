@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16411000625",
+    "project_id": "latihan-ties-2024-firebase",
+    "storage_bucket": "latihan-ties-2024-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16411000625:android:503e88de3402702b5c3a10",
+        "android_client_info": {
+          "package_name": "com.example.todofirebasetieslatihan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhIaibjaXCBtX8HWImQebOMSmUdzEsTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
